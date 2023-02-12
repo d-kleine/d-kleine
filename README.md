@@ -5,6 +5,6 @@ I'm a self-taught Data Scientist specialized in Artificial Intelligence (traditi
 * Computer Vision
 * Interpretable ML and XAI
 
-### 📬Connect with Me
+### 📬 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/danielkleine5)
 * [Medium](https://dkleine.medium.com/)
