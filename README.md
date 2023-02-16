@@ -1,10 +1,13 @@
-### 👋 Hi there, I'm Daniel,
+### 👋 Welcome
 
-I'm a self-taught Data Scientist specialized in Artificial Intelligence (traditional Machine Learning and Deep Learning).Within the field of Machine Learning, I am primarily (but not exclusively) interested in these topics:
-* (Deep) Reinforcement Learning
+I'm a Work and Organizational Psychologist having professional experience as a Data Scientist specialized in traditional Machine Learning as well as Deep Learning with a basic knowledge of Business Administration.
+
+Within the field of Machine Learning, I am primarily – but not exclusively – interested in these subjects:
+* Interpretable Machine Learning and Explainable Artificial Intelligence (XAI)
 * Computer Vision
-* Interpretable ML and XAI
+* Reinforcement Learning
+* Natural Language Processing (NLP)
 
-### 📬 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/danielkleine5)
+### 📫 Connect with Me
+* [LinkedIn](https://www.linkedin.com/in/d-kleine)
 * [Medium](https://dkleine.medium.com/)
