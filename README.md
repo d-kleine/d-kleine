@@ -4,9 +4,8 @@ I'm a Industrial and Organizational Psychologist having professional experience 
 
 Within the field of Machine Learning, I am primarily – but not exclusively – interested in following subjects:
 * Interpretable Machine Learning and Explainable Artificial Intelligence (XAI)
-* Computer Vision
 * Reinforcement Learning
-* Natural Language Processing (NLP)
+* Computer Vision
 
 ### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/d-kleine)
