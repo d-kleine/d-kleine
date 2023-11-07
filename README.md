@@ -8,6 +8,3 @@ Within the field of Machine Learning, I am particularly – but not exclusively 
 * Natural Language Processing (NLP)
 * Generative AI
 * Interpretable Machine Learning and Explainable Artificial Intelligence (XAI)
-
-### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/d-kleine)
