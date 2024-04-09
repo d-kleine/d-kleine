@@ -2,7 +2,6 @@
 
 I'm a Work and Organizational Psychologist having professional experience as a Data Scientist specialized in traditional Machine Learning as well as Deep Learning with competencies in MLOps.
 
-
 ## Socials
 <a href="https://www.linkedin.com/in/d-kleine"> <img src="https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://medium.com/@dkleine"> <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium"/></a>
