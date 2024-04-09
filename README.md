@@ -23,7 +23,6 @@ I'm a Work and Organizational Psychologist having professional experience as a D
 <br>
 
 ## Stats
-
 <a><img src="https://github-readme-stats.vercel.app/api?username=d-kleine&show_icons=true&theme=dark&hide_rank=true"/></a>
 
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kleine&layout=compact&show_icons=true&theme=dark&card_width=320"/></a>
