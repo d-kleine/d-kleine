@@ -19,11 +19,10 @@ I'm a Work and Organizational Psychologist having professional experience as a D
 <a> <img src="https://img.shields.io/badge/w&b-grey?style=for-the-badge&logo=weightsandbiases"/></a>
 <a> <img src="https://img.shields.io/badge/swagger-grey?style=for-the-badge&logo=swagger"/></a>
 <a>  <img src="https://img.shields.io/badge/fastapi-grey?style=for-the-badge&logo=fastapi"/></a>
-<br>
 
 ## Stats
 <a><img src="https://github-readme-stats.vercel.app/api?username=d-kleine&show_icons=true&theme=dark&hide_rank=true"/></a>
-
+<br>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kleine&layout=compact&show_icons=true&theme=dark&card_width=320"/></a>
 
 
