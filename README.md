@@ -2,7 +2,7 @@
 
 I'm a Work and Organizational Psychologist having professional experience as a Data Scientist specialized in traditional Machine Learning as well as Deep Learning with competencies in MLOps. Passionate about automating processes and improving workflows through innovative solutions that combine customer-centric principles with cutting-edge AI. Enjoying finding ways to streamline and enhance processes for maximum efficiency.
 
-For further reference, please see my data science and machine learning portfolio:
+For further reference, please see my portfolio:
 
 <a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/-d--kleine.github.io-black?style=for-the-badge"/></a>
 
