@@ -8,7 +8,7 @@ For further reference, please see my portfolio:
 
 Stay updated with my work and insights through my online presence:
 
-<a href="https://www.linkedin.com/in/d-kleine"><img src="https://img.shields.io/badge/linkedin-grey?style=social&logo=linkedin&logoColor=blue"/></a> <a href="https://medium.com/@dkleine"> <img src="https://img.shields.io/badge/Medium-grey?style=social&logo=medium"/></a>
+<a href="https://www.linkedin.com/in/d-kleine"><img src="https://img.shields.io/badge/linkedin-grey?style=social&logo=LinkedIn&logoColor=blue"/></a> <a href="https://medium.com/@dkleine"> <img src="https://img.shields.io/badge/Medium-grey?style=social&logo=medium"/></a>
 
 ### Operating Systems
 
