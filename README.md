@@ -1,6 +1,6 @@
 ## 👋 Welcome
 
-I'm a Work and Organizational Psychologist having professional experience as a Data Scientist specialized in traditional Machine Learning as well as Deep Learning with competencies in MLOps. Passionate about automating processes and improving workflows through innovative solutions that combine customer-centric principles with cutting-edge AI. Enjoying finding ways to streamline and enhance processes for maximum efficiency.
+I'm a Work and Organizational Psychologist with experience as a Data Scientist specializing in Machine Learning, Deep Learning, and MLOps. Passionate about automating processes and improving workflows through innovative, customer-centric AI solutions. Enjoy finding ways to enhance efficiency and always eager to learn new things.
 
 For further reference, please see my portfolio:
 
