@@ -1,6 +1,22 @@
 ## 👋 Welcome
 
-I'm a Work and Organizational Psychologist with experience as a Data Scientist specializing in Machine Learning, Deep Learning, and MLOps. Passionate about automating processes and improving workflows through innovative, customer-centric AI solutions. Enjoy finding ways to enhance efficiency and always eager to learn new things.
+```markdown
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ Command Prompt - C:\Users\d-kleine                                           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ Work and Organizational Psychologist with experience as a Data Scientist     │
+│ specializing in Machine Learning, Deep Learning, and MLOps. Passionate       │
+│ about automating processes and improving workflows through innovative,       │
+│ customer-centric AI solutions. Enjoy finding ways to enhance efficiency      │
+│ and always eager to learn new things.                                        │
+└──────────────────────────────────────────────────────────────────────────────┘
+.
+├── README.md
+└── assets
+    ├── portfolio.html
+    ├── linkedin.html
+    └── medium.html
+```
 
 For further reference, please see my portfolio:
 
