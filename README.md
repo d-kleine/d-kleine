@@ -75,7 +75,15 @@ Stay updated with my work and insights through my online presence:
 ---
 
 ### Stats
+<div style="text-align: center;">
+    <a href="https://github.com/d-kleine">
+        <img src="https://github-readme-stats.vercel.app/api?username=d-kleine&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_rank=true" height="200"/>
+    </a>
+    <a href="https://github.com/d-kleine">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kleine&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&layout=compact&show_icons=true&theme=dark&card_width=318" height="200"/>
+    </a>
+    <a href="https://github.com/d-kleine">
+        <img src="https://streak-stats.demolab.com?user=d-kleine&theme=dark&card_width=318" alt="Streak Stats" height="200"/>
+    </a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=d-kleine&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_rank=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kleine&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&layout=compact&show_icons=true&theme=dark&card_width=318"/>
-<img src="https://streak-stats.demolab.com?user=d-kleine&theme=dark&card_width=318" alt="Streak Stats"/>
