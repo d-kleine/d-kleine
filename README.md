@@ -20,7 +20,7 @@
 
 For further reference, please see my portfolio:
 
-<a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=plastic&logo=github&logoColor=white"/></a>
+<a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/Portfolio-white?style=plastic&logo=github&logoColor=black"/></a>
 
 Stay updated with my work and insights through my online presence:
 
