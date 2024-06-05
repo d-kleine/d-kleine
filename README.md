@@ -26,6 +26,8 @@ Stay updated with my work and insights through my online presence:
 
 <a href="https://www.linkedin.com/in/d-kleine"><img src="https://img.shields.io/badge/LinkedIn-grey?style=social&logo=linkedin&logoColor=blue"/></a> <a href="https://medium.com/@dkleine"> <img src="https://img.shields.io/badge/Medium-grey?style=social&logo=medium"/></a>
 
+---
+
 ### Operating Systems
 
 <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=windows&logoColor=blue"/></a> 
@@ -69,6 +71,8 @@ Stay updated with my work and insights through my online presence:
 <a href="https://asana.com/"><img src="https://img.shields.io/badge/asana-grey?style=for-the-badge&logo=asana"/></a> 
 <a href="https://trello.com/"><img src="https://img.shields.io/badge/trello-grey?style=for-the-badge&logo=trello&logoColor=blue"/></a> 
 <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/notion-grey?style=for-the-badge&logo=notion&logoColor=black"/></a>
+
+---
 
 ### Stats
 
