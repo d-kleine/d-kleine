@@ -14,8 +14,6 @@
 ├── README.md
 └── assets
     ├── portfolio
-    ├── linkedin
-    └── medium
 ```
 
 For further reference, please see my portfolio:
