@@ -41,9 +41,10 @@ Stay updated with my work and insights through my online presence:
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/></a> 
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"/></a> 
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/actions-grey?style=for-the-badge&logo=githubactions&logoColor=blue"/></a> 
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/vs code-grey?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/></a>
-<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/azure-grey?style=for-the-badge&logo=microsoftazure&logoColor=blue"/></a> 
-<a href="https://azure.microsoft.com/en-us/services/devops/pipelines/"><img src="https://img.shields.io/badge/pipelines-grey?style=for-the-badge&logo=azurepipelines&logoColor=blue"/></a> 
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/vs code-grey?style=for-the-badge"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/azure-grey?style=for-the-badge"/></a> 
+<a href="https://azure.microsoft.com/en-us/services/devops/pipelines/"><img src="https://img.shields.io/badge/pipelines-grey?style=for-the-badge"/></a>
+<a href="https://aws.amazon.com/sagemaker/"><img src="https://img.shields.io/badge/sagemaker-grey?style=for-the-badge"/></a> 
 <a href="https://www.wandb.com/"><img src="https://img.shields.io/badge/w&b-grey?style=for-the-badge&logo=weightsandbiases"/></a> 
 <a href="https://swagger.io/"><img src="https://img.shields.io/badge/swagger-grey?style=for-the-badge&logo=swagger"/></a> 
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman"/></a> 
