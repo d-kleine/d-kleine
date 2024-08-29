@@ -16,6 +16,16 @@
     ├── portfolio
 ```
 
+### Inspirational Quote
+
+
+> "*Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.*"
+> 
+> — **Ginni Rometty** (former CEO of IBM, who led the company through significant advancements in AI technology)
+> 
+
+### Portfolio
+
 For further reference, please see my portfolio:
 
 <a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/Portfolio-white?style=plastic&logo=github&logoColor=black"/></a>
