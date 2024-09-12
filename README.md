@@ -5,7 +5,7 @@
 │ Command Prompt - C:\Users\d-kleine                                           │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ Work and Organizational Psychologist with experience as a Data Scientist     │
-│ specializing in Machine Learning, Deep Learning, and MLOps. Passionate       │
+│ specialized in Machine Learning, Deep Learning, and MLOps. Passionate        │
 │ about automating processes and improving workflows through innovative,       │
 │ customer-centric AI solutions. Purpose driven and always eager to learn      │
 │ new things.                                                                  │
@@ -18,11 +18,9 @@
 
 ### Inspirational Quote
 
-
 > "*Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.*"
-> 
-> — **Ginni Rometty** (former CEO of IBM, who led the company through significant advancements in AI technology)
-> 
+
+— **Ginni Rometty** (former CEO of IBM, who led the company through significant advancements in AI technology)
 
 ### Portfolio
 
