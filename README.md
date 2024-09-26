@@ -5,7 +5,7 @@
 │ Command Prompt - C:\Users\d-kleine                                           │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ Work and Organizational Psychologist with experience as a Full-Stack         │
-│ Data Scientist specialized in Machine Learning, Deep Learning, and MLOps.    │
+│ Data Scientist specialized in Machine Learning with competencies in MLOps.   │
 │ Passionate about automating processes and improving workflows through        │
 │ innovative, customer-centric AI solutions. Purpose driven and always         │
 │ eager to learn new things.                                                   │
