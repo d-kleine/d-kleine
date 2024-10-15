@@ -63,7 +63,8 @@ Stay updated with my work and insights through my online presence:
 
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/pytorch-grey?style=for-the-badge&logo=pytorch"/></a> 
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/sklearn-grey?style=for-the-badge&logo=scikitlearn"/></a> 
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-grey?style=for-the-badge"/></a> 
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-grey?style=for-the-badge"/></a>
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/langchain-grey?style=for-the-badge&logo=langchain&logoColor=white"/></a> 
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv"/></a> 
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-grey?style=for-the-badge&logo=numpy&logoColor=blue"/></a> 
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas&logoColor=blue"/></a> 
