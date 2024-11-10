@@ -21,18 +21,21 @@
 > "*Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.*"
 
 — **Ginni Rometty** (former CEO of IBM, who led the company through significant advancements in AI technology)
+Here is an improved version of the text, focusing on clarity, professionalism, and a more engaging tone:
 
-### Portfolio
+### My Work
 
-For further reference, please see my portfolio:
+Dive deeper into my projects and insights by visiting my portfolio:
 
 <a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/Portfolio-white?style=plastic&logo=github&logoColor=black"/></a>
 
-Stay updated with my work and insights through my online presence:
+Check out my latest thoughts and articles on my blog:
+
+<a href="https://dkleine.substack.com/"><img src="https://img.shields.io/badge/SubStack-white?style=plastic&logo=substack&logoColor=orange"/></a>
+
+Stay updated and follow my latest updates via LinkedIn:
 
 <a href="https://www.linkedin.com/in/d-kleine"><img src="https://img.shields.io/badge/LinkedIn-grey?style=social&logo=linkedin&logoColor=blue"/></a>
-
----
 
 ### Operating Systems
 
