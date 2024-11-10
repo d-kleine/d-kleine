@@ -23,7 +23,7 @@
 — **Ginni Rometty** (former CEO of IBM, who led the company through significant advancements in AI technology)
 Here is an improved version of the text, focusing on clarity, professionalism, and a more engaging tone:
 
-### My Work
+### Projects
 
 Dive deeper into my projects and insights by visiting my portfolio:
 
