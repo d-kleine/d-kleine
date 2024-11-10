@@ -33,6 +33,8 @@ Check out my latest thoughts and articles on my blog:
 
 <a href="https://dkleine.substack.com/"><img src="https://img.shields.io/badge/SubStack-white?style=plastic&logo=substack&logoColor=orange"/></a>
 
+### Socials
+
 Stay updated and follow my latest updates via LinkedIn:
 
 <a href="https://www.linkedin.com/in/d-kleine"><img src="https://img.shields.io/badge/LinkedIn-grey?style=social&logo=linkedin&logoColor=blue"/></a>
