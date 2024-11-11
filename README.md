@@ -31,7 +31,7 @@ Dive deeper into my projects and insights by visiting my portfolio:
 
 Check out my latest thoughts and articles on my blog:
 
-<a href="https://dkleine.substack.com/"><img src="https://img.shields.io/badge/SubStack-white?style=plastic&logo=substack&logoColor=orange"/></a>
+<a href="https://dkleine.substack.com/"><img src="https://img.shields.io/badge/Blog-white?style=plastic&logo=substack&logoColor=orange"/></a>
 
 ### Socials
 
