@@ -16,6 +16,7 @@
 ├── README.md
 └── assets
     ├── portfolio
+    ├── blog
 ```
 
 ### Inspirational Quote
