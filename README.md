@@ -7,7 +7,7 @@
 │ Work and Organizational Psychologist with experience as a Data Scientist     │
 | specialized in Machine Learning with competencies in MLOps. Passionate       │
 | about automating processes and improving workflows through innovative,       │
-| user-centric solutions. Actively engaged in contributing to open source  │
+| user-centric solutions. Actively engaged in contributing to open source      │
 | projects to enhance collaboration, share knowledge, and drive impactful      │
 │ technological advancements. Purpose-driven, eager, and committed to          │
 | continuous learning and staying ahead of trends in the field of AI.          │
