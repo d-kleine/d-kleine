@@ -91,6 +91,10 @@ Stay updated and follow my latest updates via LinkedIn:
 ---
 
 ### Stats
-<a href="https://github.com/d-kleine"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kleine&layout=compact&theme=dark&hide_progress=true"/></a>
-
-<a href="https://github.com/d-kleine"><img src="https://github-readme-stats.vercel.app/api?username=d-kleine&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_rank=true"/></a>
+<a href="https://github.com/d-kleine" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kleine&layout=compact&theme=dark&hide_progress=true" style="width: 350px; height: auto;"/>
+</a>
+<br>
+<a href="https://github.com/d-kleine" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=d-kleine&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_rank=true" style="width: 350px; height: auto;"/>
+</a>
