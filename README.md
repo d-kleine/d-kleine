@@ -96,5 +96,5 @@ Stay updated and follow my latest updates via LinkedIn:
 </a>
 <br>
 <a href="https://github.com/d-kleine" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=d-kleine&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_rank=true" style="width: 350px; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=d-kleine&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_rank=true&custom_title=GitHub%20Stats" style="width: 350px; height: auto;"/>
 </a>
