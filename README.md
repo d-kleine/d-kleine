@@ -19,13 +19,6 @@
     ├── blog
 ```
 
-## Inspirational Quote
-
-> "*Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.*"
-
-— **Ginni Rometty** (former CEO of IBM, who led the company through significant advancements in AI technology)
-Here is an improved version of the text, focusing on clarity, professionalism, and a more engaging tone:
-
 ## Projects
 
 Dive deeper into my projects and insights by visiting my portfolio:
@@ -65,7 +58,6 @@ Stay updated and follow my latest updates via LinkedIn:
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-grey?style=for-the-badge&logo=numpy&logoColor=blue"/></a> 
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas&logoColor=blue"/></a> 
 <a href="https://www.scipy.org/"><img src="https://img.shields.io/badge/scipy-grey?style=for-the-badge&logo=scipy"/></a>
-<a href="https://rasbt.github.io/mlxtend/"><img src="https://img.shields.io/badge/mlxtend-grey?style=for-the-badge"/></a>
 <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-grey?style=for-the-badge&logo=mlflow"/></a>
 <a href="https://www.wandb.com/"><img src="https://img.shields.io/badge/w&b-grey?style=for-the-badge&logo=weightsandbiases"/></a>
 
@@ -73,12 +65,13 @@ Stay updated and follow my latest updates via LinkedIn:
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/actions-grey?style=for-the-badge&logo=githubactions&logoColor=blue"/></a>
 <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-grey?style=for-the-badge&logo=pytest"/></a> 
 <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/selenium-grey?style=for-the-badge&logo=selenium"/></a>
+<a href="https://developer.chrome.com/"><img src="https://img.shields.io/badge/chromedriver-grey?style=for-the-badge&logo=googlechrome"/></a>
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman"/></a> 
 
 ### Natural Language Processing and LLMs
 <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/langchain-grey?style=for-the-badge&logo=langchain&logoColor=white"/></a>
-<a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-grey?style=for-the-badge"/></a>
-<a href="https://spacy.io/"><img src="https://img.shields.io/badge/spaCy-grey?style=for-the-badge&logo=langchain&logoColor=blue"/></a>
+<a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-grey?style=for-the-badge&logo=python&logoColor=darkcyan"/></a>
+<a href="https://spacy.io/"><img src="https://img.shields.io/badge/spaCy-grey?style=for-the-badge&logo=spacy&logoColor=blue"/></a>
 <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openai&logoColor=green"/></a>
 <a href="https://ollama.com/"><img src="https://img.shields.io/badge/ollama-grey?style=for-the-badge&logo=ollama&logoColor=white"/></a>
 
