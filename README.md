@@ -35,7 +35,6 @@ Stay updated and follow my latest updates via LinkedIn:
 
 <a href="https://www.linkedin.com/in/d-kleine"><img src="https://img.shields.io/badge/LinkedIn-grey?style=social&logo=linkedin&logoColor=blue"/></a>
 
-
 ## Development
 
 ### General Tools and Services
@@ -54,12 +53,13 @@ Stay updated and follow my latest updates via LinkedIn:
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/sklearn-grey?style=for-the-badge&logo=scikitlearn"/></a> 
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/pytorch-grey?style=for-the-badge&logo=pytorch"/></a>
 <a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-grey?style=for-the-badge&logo=keras&logoColor=red"/></a>
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-grey?style=for-the-badge"/></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-grey?style=for-the-badge&logo=huggingface"/></a>
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-grey?style=for-the-badge&logo=numpy&logoColor=blue"/></a> 
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas&logoColor=blue"/></a> 
 <a href="https://www.scipy.org/"><img src="https://img.shields.io/badge/scipy-grey?style=for-the-badge&logo=scipy"/></a>
 <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-grey?style=for-the-badge&logo=mlflow"/></a>
 <a href="https://www.wandb.com/"><img src="https://img.shields.io/badge/w&b-grey?style=for-the-badge&logo=weightsandbiases"/></a>
+<a href="https://www.tensorflow.org/tensorboard"><img src="https://img.shields.io/badge/tensorboard-grey?style=for-the-badge&logo=tensorflow"/></a>
 
 ### Testing
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/actions-grey?style=for-the-badge&logo=githubactions&logoColor=blue"/></a>
