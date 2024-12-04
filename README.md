@@ -23,17 +23,21 @@
 
 Dive deeper into my projects and insights by visiting my portfolio:
 
-<a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/Portfolio-white?style=plastic&logo=github&logoColor=black"/></a>
+<a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=github&logoColor=black"/></a>
 
-Check out my latest thoughts and articles on my blog:
+You can explore all my open-source contributions on GitHub:
 
-<a href="https://dkleine.substack.com/"><img src="https://img.shields.io/badge/Blog-white?style=plastic&logo=substack&logoColor=orange"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Ad-kleine"><img src="https://img.shields.io/badge/Pull Requests-white?style=for-the-badge&logo=githubactions&logoColor=black"/></a>
 
 ## Socials
 
-Stay updated and follow my latest updates via LinkedIn:
+Stay updated and follow my latest updates via my profile on LinkedIn:
 
-<a href="https://www.linkedin.com/in/d-kleine"><img src="https://img.shields.io/badge/LinkedIn-grey?style=social&logo=linkedin&logoColor=blue"/></a>
+<a href="https://www.linkedin.com/in/d-kleine"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+Check out my latest thoughts and articles on my blog on SubStack:
+
+<a href="https://dkleine.substack.com/"><img src="https://img.shields.io/badge/SubStack-orange?style=for-the-badge&logo=substack&logoColor=white"/></a>
 
 ## Development
 
@@ -78,8 +82,6 @@ Stay updated and follow my latest updates via LinkedIn:
 ### Computer Vision
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv"/></a> 
 <a href="https://roboflow.com/"><img src="https://img.shields.io/badge/roboflow-grey?style=for-the-badge&logo=roboflow&logoColor=purple"/></a> 
-<a href="https://cvat.org/"><img src="https://img.shields.io/badge/cvat-grey?style=for-the-badge"/></a>
-<a href="https://www.ultralytics.com/"><img src="https://img.shields.io/badge/ultralytics-grey?style=for-the-badge"/></a>
 
 ### Project Management
 
