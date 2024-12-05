@@ -41,10 +41,23 @@ Check out my latest thoughts and articles on my blog on SubStack:
 
 ## Development
 
-### General Tools and Services
+### Operating Systems
+<a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=windows&logoColor=blue"/></a> 
+<a href="https://docs.microsoft.com/en-us/windows/wsl/"><img src="https://img.shields.io/badge/WSL-grey?style=for-the-badge&logo=linux"/></a> 
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-grey?style=for-the-badge&logo=ubuntu"/></a>
 
+### Languages
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=blue"/></a>
+<a href="https://sqlite.org/index.html"><img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=sqlite&logoColor=blue"/></a>
+<a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=blue"/></a>
+<a href="https://developer.nvidia.com/cuda-zone"><img src="https://img.shields.io/badge/CUDA-grey?style=for-the-badge&logo=nvidia&logoColor=green"/></a>
+<a href="https://yaml.org/"><img src="https://img.shields.io/badge/YAML-grey?style=for-the-badge&logo=yaml&logoColor=yellow"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5&logoColor=orange"/></a>
+<a href="https://www.w3.org/XML/"><img src="https://img.shields.io/badge/XML-grey?style=for-the-badge&logo=xml&logoColor=red"/></a>
+<a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-grey?style=for-the-badge&logo=latex&logoColor=teal"/></a>
+
+### General Tools and Services
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/jupyter-grey?style=for-the-badge&logo=jupyter"/></a> 
-<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=blue"/></a> 
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/></a> 
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"/></a> 
@@ -55,7 +68,6 @@ Check out my latest thoughts and articles on my blog on SubStack:
 <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-grey?style=for-the-badge&logo=dbt"/></a>
 
 ### Machine Learning
-
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/sklearn-grey?style=for-the-badge&logo=scikitlearn"/></a> 
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/pytorch-grey?style=for-the-badge&logo=pytorch"/></a>
 <a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-grey?style=for-the-badge&logo=keras&logoColor=red"/></a>
@@ -68,7 +80,6 @@ Check out my latest thoughts and articles on my blog on SubStack:
 <a href="https://www.tensorflow.org/tensorboard"><img src="https://img.shields.io/badge/tensorboard-grey?style=for-the-badge&logo=tensorflow"/></a>
 
 ### Testing
-
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/actions-grey?style=for-the-badge&logo=githubactions&logoColor=blue"/></a>
 <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-grey?style=for-the-badge&logo=pytest"/></a> 
 <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/selenium-grey?style=for-the-badge&logo=selenium"/></a>
@@ -76,7 +87,6 @@ Check out my latest thoughts and articles on my blog on SubStack:
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman"/></a> 
 
 ### Natural Language Processing and LLMs
-
 <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/langchain-grey?style=for-the-badge&logo=langchain&logoColor=white"/></a>
 <a href="https://www.llamaindex.ai/"><img src="https://img.shields.io/badge/LlamaIndex-grey?style=for-the-badge&logo=llamaindex&logoColor=white"/></a>
 <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-grey?style=for-the-badge&logo=python&logoColor=darkcyan"/></a>
@@ -85,20 +95,17 @@ Check out my latest thoughts and articles on my blog on SubStack:
 <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-grey?style=for-the-badge&logo=ollama&logoColor=white"/></a>
 
 ### Computer Vision
-
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv"/></a> 
 <a href="https://roboflow.com/"><img src="https://img.shields.io/badge/roboflow-grey?style=for-the-badge&logo=roboflow&logoColor=purple"/></a>
 <a href="https://www.ultralytics.com/"><img src="https://img.shields.io/badge/ultralytics-grey?style=for-the-badge&logo=ultralytics"/></a>
 
 ### Project Management
-
 <a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/confluence-grey?style=for-the-badge&logo=confluence&logoColor=blue"/></a> 
 <a href="https://asana.com/"><img src="https://img.shields.io/badge/asana-grey?style=for-the-badge&logo=asana"/></a> 
 <a href="https://trello.com/"><img src="https://img.shields.io/badge/trello-grey?style=for-the-badge&logo=trello&logoColor=blue"/></a> 
 <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/notion-grey?style=for-the-badge&logo=notion&logoColor=black"/></a>
 
 ## Stats
-
 <a href="https://github.com/d-kleine" style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kleine&layout=compact&theme=dark&hide_progress=true" style="width: 350px; height: auto;"/>
 </a>
