@@ -41,6 +41,8 @@ Check out my latest thoughts and articles on my blog on SubStack:
 
 ## Development
 
+I actively use a wide range of tools, services, and packages in my AI development workflow, including but not limited to:
+
 ### Operating Systems
 <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=windows&logoColor=blue"/></a> 
 <a href="https://docs.microsoft.com/en-us/windows/wsl/"><img src="https://img.shields.io/badge/WSL-grey?style=for-the-badge&logo=linux"/></a> 
@@ -105,7 +107,12 @@ Check out my latest thoughts and articles on my blog on SubStack:
 <a href="https://trello.com/"><img src="https://img.shields.io/badge/trello-grey?style=for-the-badge&logo=trello&logoColor=blue"/></a> 
 <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/notion-grey?style=for-the-badge&logo=notion&logoColor=black"/></a>
 
+... along with many other technologies that adapt to the evolving needs of each project.
+
 ## Stats
+
+Last but not least, here's an overview of my GitHub profile statistics, dynamically generated to provide real-time insights:
+
 <a href="https://github.com/d-kleine" style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kleine&layout=compact&theme=dark&hide_progress=true" style="width: 350px; height: auto;"/>
 </a>
