@@ -80,12 +80,15 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://www.wandb.com/"><img src="https://img.shields.io/badge/w&b-grey?style=for-the-badge&logo=weightsandbiases"/></a>
 <a href="https://www.tensorflow.org/tensorboard"><img src="https://img.shields.io/badge/tensorboard-grey?style=for-the-badge&logo=tensorflow"/></a>
 
-### Testing
+### Serving and Testing
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logoColor=teal"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=black"/></a>
+<a href="https://gradio.app/"><img src="https://img.shields.io/badge/Gradio-grey?style=for-the-badge&logo=gradio&logoColor=orange"/></a>
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/actions-grey?style=for-the-badge&logo=githubactions&logoColor=blue"/></a>
 <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-grey?style=for-the-badge&logo=pytest"/></a> 
 <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/selenium-grey?style=for-the-badge&logo=selenium"/></a>
 <a href="https://developer.chrome.com/"><img src="https://img.shields.io/badge/chromedriver-grey?style=for-the-badge&logo=googlechrome"/></a>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman"/></a> 
+<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman"/></a>
 
 ### Natural Language Processing and LLMs
 <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/langchain-grey?style=for-the-badge&logo=langchain&logoColor=white"/></a>
