@@ -84,6 +84,7 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logoColor=teal"/></a>
 <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=black"/></a>
 <a href="https://gradio.app/"><img src="https://img.shields.io/badge/Gradio-grey?style=for-the-badge&logo=gradio&logoColor=orange"/></a>
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-grey?style=for-the-badge&logo=streamlit&logoColor=red"/></a>
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/actions-grey?style=for-the-badge&logo=githubactions&logoColor=blue"/></a>
 <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-grey?style=for-the-badge&logo=pytest"/></a> 
 <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/selenium-grey?style=for-the-badge&logo=selenium"/></a>
