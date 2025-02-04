@@ -116,7 +116,7 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 ### Computer Vision
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv"/></a> 
 <a href="https://roboflow.com/"><img src="https://img.shields.io/badge/roboflow-grey?style=for-the-badge&logo=roboflow&logoColor=purple"/></a>
-<a href="https://www.ultralytics.com/"><img src="https://img.shields.io/badge/ultralytics-grey?style=for-the-badge&logo=ultralytics"/></a>
+<a href="https://www.ultralytics.com/"><img src="https://img.shields.io/badge/ultralytics-grey?style=for-the-badge&logo=ultralytics&logoColor=blue"/></a>
 
 ### Project Management
 <a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/confluence-grey?style=for-the-badge&logo=confluence&logoColor=blue"/></a> 
