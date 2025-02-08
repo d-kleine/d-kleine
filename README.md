@@ -27,7 +27,7 @@ Dive deeper into my projects and insights by visiting my portfolio:
 
 You can explore my contributions here (select *Issues*, *Pull requests* or *Discussions* from the left sidebar):
 
-<a href="https://github.com/search?q=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&type=pullrequests&s=created&o=desc"><img src="https://img.shields.io/badge/Pull Requests-white?style=for-the-badge&logo=githubactions&logoColor=black"/></a>
+<a href="https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc"><img src="https://img.shields.io/badge/Pull Requests-white?style=for-the-badge&logo=githubactions&logoColor=black"/></a>
 
 I actively contribute to the open source community through:
 
