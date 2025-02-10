@@ -72,14 +72,15 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-grey?style=for-the-badge&logo=latex&logoColor=teal"/></a>
 
 ### General Tools and Services
-<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/jupyter-grey?style=for-the-badge&logo=jupyter"/></a> 
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/jupyter-grey?style=for-the-badge&logo=jupyter"/></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/></a> 
-<a href="https://github.com/"><img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"/></a> 
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/vs code-grey?style=for-the-badge"/></a>
-<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/azure-grey?style=for-the-badge"/></a> 
-<a href="https://swagger.io/"><img src="https://img.shields.io/badge/swagger-grey?style=for-the-badge&logo=swagger"/></a> 
-<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/terraform-grey?style=for-the-badge&logo=terraform"/></a> 
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/azure-grey?style=for-the-badge"/></a>
+<a href="https://swagger.io/"><img src="https://img.shields.io/badge/swagger-grey?style=for-the-badge&logo=swagger"/></a>
+<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/terraform-grey?style=for-the-badge&logo=terraform"/></a>
+<a href="https://www.packer.io/"><img src="https://img.shields.io/badge/packer-grey?style=for-the-badge&logo=packer"/></a>
 <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-grey?style=for-the-badge&logo=dbt"/></a>
 
 ### Machine Learning
