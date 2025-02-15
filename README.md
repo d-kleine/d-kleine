@@ -25,10 +25,6 @@ Dive deeper into my projects and insights by visiting my portfolio:
 
 <a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=github&logoColor=black"/></a>
 
-You can explore my contributions here (select *Issues*, *Pull requests* or *Discussions* from the left sidebar):
-
-<a href="https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc"><img src="https://img.shields.io/badge/Pull Requests-white?style=for-the-badge&logo=githubactions&logoColor=black"/></a>
-
 I actively contribute to the open source community through:
 
 * **Code Contributions**
@@ -42,6 +38,17 @@ I actively contribute to the open source community through:
     - Filing detailed bug reports and feature requests
     - Helping other developers troubleshoot issues
     - Contributing to documentation improvements
+ 
+You can explore my pull requests [here](https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc). Some selected code contributions:
+
+- **Books**:
+    - [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)
+
+- **Frameworks**:
+    - **[HuggingFace](https://huggingface.co/)**: [peft](https://github.com/huggingface/peft/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)
+    - **[mlxtend](https://rasbt.github.io/mlxtend/)**:  [mlxtend](https://github.com/rasbt/mlxtend/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)
+    - **[Haystack](https://haystack.deepset.ai/)**: [haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)
+    - **[PyTorch](https://pytorch.org/)**: [pytorch](https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)
 
 ## Socials
 
