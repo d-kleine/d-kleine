@@ -39,7 +39,7 @@ I actively contribute to the open source community through:
     - Helping other developers troubleshoot issues
     - Contributing to documentation improvements
  
-You can explore my pull requests [here](https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc). Some selected code contributions:
+You can explore my pull requests [here](https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc). Some selected open source code contributions:
 
 - **Books**:
     - [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)
