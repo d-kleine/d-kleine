@@ -62,7 +62,7 @@ Check out my latest thoughts and articles on my blog on SubStack:
 
 ## Development
 
-I actively use a wide range of tools, services, and packages in my AI development workflow, including but not limited to:
+I actively use a wide range of tools, services, and packages in my AI development workflow, including (but not limited to):
 
 ### Operating Systems
 <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=windows&logoColor=blue"/></a>
@@ -132,7 +132,7 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://trello.com/"><img src="https://img.shields.io/badge/trello-grey?style=for-the-badge&logo=trello&logoColor=blue"/></a> 
 <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/notion-grey?style=for-the-badge&logo=notion&logoColor=black"/></a>
 
-... along with many other technologies that adapt to the evolving needs of each project.
+... along with many other technologies.
 
 ## Stats
 
