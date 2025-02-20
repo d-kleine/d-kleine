@@ -74,6 +74,7 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=blue"/></a>
 <a href="https://developer.nvidia.com/cuda-zone"><img src="https://img.shields.io/badge/CUDA-grey?style=for-the-badge&logo=nvidia&logoColor=green"/></a>
 <a href="https://yaml.org/"><img src="https://img.shields.io/badge/YAML-grey?style=for-the-badge&logo=yaml&logoColor=yellow"/></a>
+<a href="https://toml.io/"><img src="https://img.shields.io/badge/TOML-grey?style=for-the-badge&logo=toml&logoColor=black"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5&logoColor=orange"/></a>
 <a href="https://www.w3.org/XML/"><img src="https://img.shields.io/badge/XML-grey?style=for-the-badge&logo=xml&logoColor=red"/></a>
 <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-grey?style=for-the-badge&logo=latex&logoColor=teal"/></a>
