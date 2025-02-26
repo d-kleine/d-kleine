@@ -25,21 +25,7 @@ Dive deeper into my projects and insights by visiting my portfolio:
 
 <a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=github&logoColor=black"/></a>
 
-I actively contribute to the open source community through:
-
-* **Code Contributions**
-    - Developing and maintaining open source ML/AI tools and libraries
-    - Implementing new features and performance improvements
-    - Writing comprehensive tests and documentation
-    - Contributing bug fixes
-
-* **Technical Discussions**
-    - Participating in GitHub discussions around ML/AI topics
-    - Filing detailed bug reports and feature requests
-    - Helping other developers troubleshoot issues
-    - Contributing to documentation improvements
- 
-You can explore my pull requests [here](https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc). Some selected open source code contributions:
+I actively enhance ML/AI ecosystems through code contributions, bug reports, and technical discussions. You can explore my pull requests [here](https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc). My contributions span several prominent open source projects, for example:
 
 - **Books**:
     - [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)
