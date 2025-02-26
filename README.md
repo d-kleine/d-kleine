@@ -24,8 +24,6 @@ Furthermore, I enjoy exploring activities that combine creativity, technical ski
 - 🌍 **Open Source Contributions**: Actively engaging in the AI community to enhance tools and share knowledge.
 - 🎯 **User-Centric Solutions**: Passionate about designing systems that prioritize usability and customer needs.
 - 🖥️ **Custom PC Building**: Upgrading and optimizing my PC with the new components to ensure peak performance
-- ✂️ **Handcrafting**: Creating unique, functional items with attention to detail and usability.
-- 📖 **Staying Informed**: Reading news and exploring the latest trends in AI, ML, and software development.
 
 ## Projects
 
