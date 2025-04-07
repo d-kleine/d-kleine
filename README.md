@@ -1,16 +1,13 @@
 # 👋 Welcome
 
-```markdown
+```
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │ Command Prompt - C:\Users\d-kleine                                           │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ M.Sc. in Psychology with specialization in Work and Organizational           │
-| Psychology. Experienced as a Data Scientist with a strong focus on           │
-| traditional Machine Learning as well as Deep Learning with competencies in   │
-| MLOps. Passionate about leveraging technology to drive meaningful change     │
-| through innovative, user-centric solutions. Actively engaged in the AI       │
-| community by raising issues, contributing code, and partipating in           |
-| discussions. Committed to staying continuously ahead of AI developments.     │
+| Psychology. Experienced Data Scientist with a strong focus on Deep Learning  │
+| with competencies in MLOps. Passionate about leveraging technology to drive  │
+| meaningful change through innovative, user-centric solutions.                │
 └──────────────────────────────────────────────────────────────────────────────┘
 .
 ├── README.md
