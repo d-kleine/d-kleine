@@ -98,6 +98,7 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman"/></a>
 
 ### Natural Language Processing and LLMs
+<a href="https://haystack.deepset.ai/"><img src="https://img.shields.io/badge/haystack-grey?style=for-the-badge&logo=haystack&logoColor=white"/></a>
 <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/langchain-grey?style=for-the-badge&logo=langchain&logoColor=white"/></a>
 <a href="https://www.llamaindex.ai/"><img src="https://img.shields.io/badge/LlamaIndex-grey?style=for-the-badge&logo=llamaindex&logoColor=white"/></a>
 <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-grey?style=for-the-badge&logo=python&logoColor=darkcyan"/></a>
