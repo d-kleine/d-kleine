@@ -28,7 +28,7 @@ I actively enhance ML/AI ecosystems through code contributions, bug reports, and
     - [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)
 
 - **Frameworks**:
-    - **[HuggingFace](https://huggingface.co/)**: [[peft](https://github.com/huggingface/peft/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)]
+    - **[HuggingFace](https://huggingface.co/)**: [[peft](https://github.com/huggingface/peft/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)] [[transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)] 
     - **[mlxtend](https://rasbt.github.io/mlxtend/)**:  [[mlxtend](https://github.com/rasbt/mlxtend/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)]
     - **[Haystack](https://haystack.deepset.ai/)**: [[haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)]
     - **[PyTorch](https://pytorch.org/)**: [[pytorch](https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3Ad-kleine+is%3Aclosed+sort%3Adesc)]
