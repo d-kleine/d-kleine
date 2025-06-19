@@ -104,7 +104,7 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://www.llamaindex.ai/"><img src="https://img.shields.io/badge/LlamaIndex-grey?style=for-the-badge&logo=llamaindex&logoColor=white"/></a>
 <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-grey?style=for-the-badge&logo=python&logoColor=darkcyan"/></a>
 <a href="https://spacy.io/"><img src="https://img.shields.io/badge/spaCy-grey?style=for-the-badge&logo=spacy&logoColor=blue"/></a>
-<a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openai&logoColor=green"/></a>
+<a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-grey?style=for-the-badge&logo=ollama&logoColor=white"/></a>
 
 ### Computer Vision
