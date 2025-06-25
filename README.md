@@ -18,11 +18,11 @@
 
 ## Projects
 
-Dive deeper into my projects and insights by visiting my portfolio:
+Dive deeper into my projects by visiting my portfolio:
 
 <a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=github&logoColor=black"/></a>
 
-I actively enhance ML/AI ecosystems through code contributions, bug reports, and technical discussions. You can explore my pull requests [here](https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc). My contributions span several prominent open source projects, for example:
+I actively enhance ML/AI ecosystems through code contributions, bug reports, and technical discussions. You can explore my pull requests [here](https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc). My contributions span several prominent open-source projects, for example:
 
 - **Books**:
     - [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch/pulls?q=is%3Apr+author%3Ad-kleine+is%3Amerged+sort%3Adesc)
@@ -39,7 +39,7 @@ Stay updated and follow my latest updates via my profile on LinkedIn:
 
 <a href="https://www.linkedin.com/in/d-kleine"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-Check out my latest thoughts and articles on my blog on SubStack:
+Check out my latest articles on my blog on SubStack:
 
 <a href="https://dkleine.substack.com/"><img src="https://img.shields.io/badge/SubStack-orange?style=for-the-badge&logo=substack&logoColor=white"/></a>
 
@@ -122,7 +122,7 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 
 ## Stats
 
-Last but not least, here's an overview of my GitHub profile statistics, dynamically generated to provide real-time insights:
+Last but not least, here's an overview of my GitHub profile statistics:
 
 <a href="https://github.com/d-kleine" style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kleine&layout=compact&theme=dark&hide_progress=true" style="width: 350px; height: auto;"/>
