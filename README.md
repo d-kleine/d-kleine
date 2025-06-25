@@ -106,6 +106,9 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://spacy.io/"><img src="https://img.shields.io/badge/spaCy-grey?style=for-the-badge&logo=spacy&logoColor=blue"/></a>
 <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-grey?style=for-the-badge&logo=ollama&logoColor=white"/></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="https://weaviate.io/"><img src="https://img.shields.io/badge/Weaviate-grey?style=for-the-badge&logo=weaviate&logoColor=yellow"/></a>
+<a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/Chroma-grey?style=for-the-badge&logo=chroma&logoColor=white"/></a>
 
 ### Computer Vision
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv"/></a> 
