@@ -83,32 +83,37 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-grey?style=for-the-badge&logo=numpy&logoColor=blue"/></a> 
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas&logoColor=blue"/></a> 
 <a href="https://www.scipy.org/"><img src="https://img.shields.io/badge/scipy-grey?style=for-the-badge&logo=scipy"/></a>
-<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-grey?style=for-the-badge&logo=mlflow"/></a>
-<a href="https://www.wandb.com/"><img src="https://img.shields.io/badge/w&b-grey?style=for-the-badge&logo=weightsandbiases"/></a>
-<a href="https://www.tensorflow.org/tensorboard"><img src="https://img.shields.io/badge/tensorboard-grey?style=for-the-badge&logo=tensorflow"/></a>
 
-### Serving and Testing
-<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logoColor=teal"/></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=black"/></a>
-<a href="https://gradio.app/"><img src="https://img.shields.io/badge/Gradio-grey?style=for-the-badge&logo=gradio&logoColor=orange"/></a>
-<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-grey?style=for-the-badge&logo=streamlit&logoColor=red"/></a>
+### Testing
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/actions-grey?style=for-the-badge&logo=githubactions&logoColor=blue"/></a>
 <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-grey?style=for-the-badge&logo=pytest"/></a> 
 <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/selenium-grey?style=for-the-badge&logo=selenium"/></a>
 <a href="https://developer.chrome.com/"><img src="https://img.shields.io/badge/chromedriver-grey?style=for-the-badge&logo=googlechrome"/></a>
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman"/></a>
 
+### Serving 
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logoColor=teal"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=black"/></a>
+<a href="https://gradio.app/"><img src="https://img.shields.io/badge/Gradio-grey?style=for-the-badge&logo=gradio&logoColor=orange"/></a>
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-grey?style=for-the-badge&logo=streamlit&logoColor=red"/></a>
+
+### Monitoring
+<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-grey?style=for-the-badge&logo=mlflow"/></a>
+<a href="https://www.wandb.com/"><img src="https://img.shields.io/badge/w&b-grey?style=for-the-badge&logo=weightsandbiases"/></a>
+<a href="https://www.tensorflow.org/tensorboard"><img src="https://img.shields.io/badge/tensorboard-grey?style=for-the-badge&logo=tensorflow"/></a>
+
+### Data Bases 
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="https://weaviate.io/"><img src="https://img.shields.io/badge/Weaviate-grey?style=for-the-badge&logo=weaviate&logoColor=yellow"/></a>
+<a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/Chroma-grey?style=for-the-badge&logo=chroma&logoColor=white"/></a>
+
 ### Natural Language Processing and LLMs
 <a href="https://haystack.deepset.ai/"><img src="https://img.shields.io/badge/haystack-grey?style=for-the-badge&logo=haystack&logoColor=cyan"/></a>
 <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/langchain-grey?style=for-the-badge&logo=langchain&logoColor=white"/></a>
-<a href="https://www.llamaindex.ai/"><img src="https://img.shields.io/badge/LlamaIndex-grey?style=for-the-badge&logo=llamaindex&logoColor=white"/></a>
 <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-grey?style=for-the-badge&logo=python&logoColor=darkcyan"/></a>
 <a href="https://spacy.io/"><img src="https://img.shields.io/badge/spaCy-grey?style=for-the-badge&logo=spacy&logoColor=blue"/></a>
 <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-grey?style=for-the-badge&logo=ollama&logoColor=white"/></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-<a href="https://weaviate.io/"><img src="https://img.shields.io/badge/Weaviate-grey?style=for-the-badge&logo=weaviate&logoColor=yellow"/></a>
-<a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/Chroma-grey?style=for-the-badge&logo=chroma&logoColor=white"/></a>
 
 ### Computer Vision
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv"/></a> 
