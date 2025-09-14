@@ -109,6 +109,7 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/Chroma-grey?style=for-the-badge&logo=chroma&logoColor=white"/></a>
 
 ### Natural Language Processing and LLMs
+<a href="https://modelcontextprotocol.io/docs/getting-started/intro"><img src="https://img.shields.io/badge/MCP-grey?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/></a>
 <a href="https://haystack.deepset.ai/"><img src="https://img.shields.io/badge/haystack-grey?style=for-the-badge&logo=haystack&logoColor=cyan"/></a>
 <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/langchain-grey?style=for-the-badge&logo=langchain&logoColor=white"/></a>
 <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-grey?style=for-the-badge&logo=python&logoColor=darkcyan"/></a>
