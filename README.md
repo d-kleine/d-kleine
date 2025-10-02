@@ -25,7 +25,7 @@ Dive deeper into my projects by visiting my portfolio:
 I actively enhance ML/AI ecosystems through code contributions, bug reports, and technical discussions. You can explore my pull requests [here](https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine+is%3Amerged&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc). My contributions span several prominent open-source projects, for example:
 
 - **Books**:
-    - [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch/pulls?q=is%3Apr+author%3Ad-kleine+is%3Amerged+sort%3Adesc)
+    - [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch/pulls?q=is%3Apr+author%3Ad-kleine+is%3Amerged+sort%3Acreated-desc)
 
 - **Frameworks**:
     - **[HuggingFace](https://huggingface.co/)**: [[peft](https://github.com/huggingface/peft/pulls?q=is%3Apr+author%3Ad-kleine+is%3Amerged+sort%3Adesc)] [[transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Ad-kleine+is%3Amerged+sort%3Adesc)] 
