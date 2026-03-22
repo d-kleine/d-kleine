@@ -104,11 +104,6 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://www.wandb.com/"><img src="https://img.shields.io/badge/w&b-grey?style=for-the-badge&logo=weightsandbiases"/></a>
 <a href="https://www.tensorflow.org/tensorboard"><img src="https://img.shields.io/badge/tensorboard-grey?style=for-the-badge&logo=tensorflow"/></a>
 
-### Data Bases 
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-<a href="https://weaviate.io/"><img src="https://img.shields.io/badge/Weaviate-grey?style=for-the-badge&logo=weaviate&logoColor=yellow"/></a>
-<a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/Chroma-grey?style=for-the-badge&logo=chroma&logoColor=white"/></a>
-
 ### Natural Language Processing and LLMs
 <a href="https://modelcontextprotocol.io/docs/getting-started/intro"><img src="https://img.shields.io/badge/MCP-grey?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/></a>
 <a href="https://haystack.deepset.ai/"><img src="https://img.shields.io/badge/haystack-grey?style=for-the-badge&logo=haystack&logoColor=cyan"/></a>
