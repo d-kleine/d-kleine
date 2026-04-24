@@ -111,6 +111,12 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://roboflow.com/"><img src="https://img.shields.io/badge/roboflow-grey?style=for-the-badge&logo=roboflow&logoColor=purple"/></a>
 <a href="https://www.ultralytics.com/"><img src="https://img.shields.io/badge/ultralytics-grey?style=for-the-badge&logo=ultralytics&logoColor=blue"/></a>
 
+### Physical AI
+<a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS-grey?style=for-the-badge&logo=ros"/></a> 
+<a href="https://developer.nvidia.com/isaac"><img src="https://img.shields.io/badge/Isaac Sim + Isaac Lab-grey?style=for-the-badge&logo=nvidia"/></a>
+<a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-grey?style=for-the-badge&logo=blender"/></a>
+<a href="https://www.freecad.org"><img src="https://img.shields.io/badge/FreeCAD-grey?style=for-the-badge&logo=freecad&logoColor=red"/></a>
+
 ### Project Management
 <a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/confluence-grey?style=for-the-badge&logo=confluence&logoColor=blue"/></a> 
 <a href="https://asana.com/"><img src="https://img.shields.io/badge/asana-grey?style=for-the-badge&logo=asana"/></a> 
