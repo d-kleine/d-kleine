@@ -4,10 +4,9 @@
 ┌──────────────────────────────────────────────────────────────────────────┐
 │ Command Prompt - C:\Users\d-kleine                                       │
 ├──────────────────────────────────────────────────────────────────────────┤
-│ Psychologist with specialization in Work and Organizational Psychology.  │
-| Experienced Data Scientist with a strong focus on Deep Learning with     │
-| competencies in MLOps. Passionate about leveraging technology to drive   │
-| meaningful change through innovative, user-centric solutions.            │
+│ Psychologist with experience as a data scientist specialized in machine  |
+| learning. Passionate about leveraging technology to drive meaningful     |
+| change through innovative solutions.                                     │
 └──────────────────────────────────────────────────────────────────────────┘
 .
 ├── README.md
