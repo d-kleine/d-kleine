@@ -47,10 +47,6 @@ Check out my latest articles on my blog on SubStack:
 
 I actively use a wide range of tools, services, and packages in my AI development workflow, including (but not limited to):
 
-### Operating Systems
-<a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=windows&logoColor=blue"/></a>
-<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-grey?style=for-the-badge&logo=ubuntu"/></a>
-
 ### Languages
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=blue"/></a>
 <a href="https://sqlite.org/index.html"><img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=sqlite&logoColor=blue"/></a>
