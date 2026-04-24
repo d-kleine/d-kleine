@@ -35,11 +35,11 @@ and some others.
 
 ## Socials
 
-Stay updated and follow my latest updates via my profile on LinkedIn:
+Stay updated and follow latest updates via my profile on LinkedIn:
 
 <a href="https://www.linkedin.com/in/d-kleine"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-Check out my latest articles on my blog on SubStack:
+Check out latest articles on my blog on SubStack:
 
 <a href="https://dkleine.substack.com/"><img src="https://img.shields.io/badge/SubStack-orange?style=for-the-badge&logo=substack&logoColor=white"/></a>
 
