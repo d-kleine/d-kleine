@@ -123,7 +123,7 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://trello.com/"><img src="https://img.shields.io/badge/trello-grey?style=for-the-badge&logo=trello&logoColor=blue"/></a> 
 <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/notion-grey?style=for-the-badge&logo=notion&logoColor=black"/></a>
 
-... along with many other software.
+along many other tools.
 
 ## Stats
 
