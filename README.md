@@ -21,7 +21,7 @@ Dive deeper into my projects by visiting my portfolio:
 
 <a href="https://d-kleine.github.io/"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=github&logoColor=black"/></a>
 
-I actively enhance ML/AI ecosystems through code contributions, bug reports, and technical discussions. You can explore my pull requests [here](https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine+is%3Amerged&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc). My contributions span several prominent open-source projects, for example:
+I contribute to the AI community through code, bug reports, and discussions. You can explore my pull requests [here](https://github.com/search?q=author%3Ad-kleine+-user%3Ad-kleine+is%3Amerged&type=pullrequests&query=author%3Ad-kleine+is%3Apr+-user%3Ad-kleine&s=created&o=desc). My contributions span several prominent open-source projects, for example:
 
 - **Books**:
     - [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch/pulls?q=is%3Apr+author%3Ad-kleine+is%3Amerged+sort%3Acreated-desc)
@@ -123,7 +123,7 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://trello.com/"><img src="https://img.shields.io/badge/trello-grey?style=for-the-badge&logo=trello&logoColor=blue"/></a> 
 <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/notion-grey?style=for-the-badge&logo=notion&logoColor=black"/></a>
 
-... along with many other technologies and providers.
+... along with many other software.
 
 ## Stats
 
