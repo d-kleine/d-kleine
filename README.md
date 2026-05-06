@@ -124,15 +124,3 @@ I actively use a wide range of tools, services, and packages in my AI developmen
 <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/notion-grey?style=for-the-badge&logo=notion&logoColor=black"/></a>
 
 along many other tools.
-
-## Stats
-
-Last but not least, here's an overview of my GitHub profile statistics:
-
-<a href="https://github.com/d-kleine" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kleine&layout=compact&theme=dark&hide_progress=true" style="width: 350px; height: auto;"/>
-</a>
-<br>
-<a href="https://github.com/d-kleine" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=d-kleine&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_rank=true&custom_title=GitHub%20Stats" style="width: 350px; height: auto;"/>
-</a>
